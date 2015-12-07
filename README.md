@@ -1,2 +1,2 @@
 # leechaoqiang.github.io
-leechaoqiang的个人博客
+leechaoqiang的个人技术博客
